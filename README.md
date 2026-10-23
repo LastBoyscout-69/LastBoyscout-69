@@ -1,16 +1,23 @@
-## Hi there 👋
+Всем привет!
 
 <!--
-**LastBoyscout-69/LastBoyscout-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LastBoyscout69/LastBoyscout69** - это особый репозиторий,
+который позволяет размещать в публичном профиле
+информацию о себе# Привет, я Алексей 👋
 
-Here are some ideas to get you started:
+ 👨‍💻 Обо мне:
+ "Начинающий Python-разработчик, увлечен созданием десктопных приложений и автоматизацией".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ **Языки:** Python, SQL
+ **Библиотеки:** Flet, OR-Tools, openpyxl
+ **Инструменты:** Git, SQLite
+
+🚀 Мои проекты
+- SchoolPlanner — Генератор школьного расписания с умным алгоритмом, сохранением данных в базе, импортом и экспортом в Excel 
+
+[SchoolPlanner_v2.3.0](https://github.com/LastBoyscout-69/SchoolPlanner_v2.3.0/releases)
+
+📫 Как со мной связаться
+- Telegram: @Last_Boyscout_69
+- Email: alexeyvolkov69@gmail/com
